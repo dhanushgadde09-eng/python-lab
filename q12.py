@@ -39,3 +39,30 @@ while True:
         break
     else:
         print("Invalid choice.")
+
+output
+--- Student Data Manager ---
+1. Add student
+2. View students
+3. Exit
+Enter choice: 1
+Enter student name: ram
+Enter roll number: 001
+Enter marks: 78
+Student record saved.
+
+--- Student Data Manager ---
+1. Add student
+2. View students
+3. Exit
+Enter choice: 2
+
+Roll No | Name | Marks
+001 | ram | 78
+
+--- Student Data Manager ---
+1. Add student
+2. View students
+3. Exit
+Enter choice: 3
+Exiting.
