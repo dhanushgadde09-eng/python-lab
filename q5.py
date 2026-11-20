@@ -6,3 +6,7 @@ def factorial(n):
     c= n*factorial(n-1)
     return c
 print("Factorial is --->", factorial(n))
+
+output
+Enter the value of n=6
+Factorial is ---> 720
