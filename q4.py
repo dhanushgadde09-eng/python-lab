@@ -10,3 +10,7 @@ if count == 2:
     print(num, "is a Prime Number")
 else:
     print(num, "is not a Prime Number")
+
+output
+Enter a number: 45
+45 is not a Prime Number
