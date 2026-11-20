@@ -50,3 +50,40 @@ while True:
         break
     else:
         print("Invalid choice.")
+
+output
+Enter account holder name: ram
+
+--- Bank Account Menu ---
+1. Deposit
+2. Withdraw
+3. Check balance
+4. Exit
+Enter choice: 1
+Enter deposit amount: 8765
+Deposit successful.
+
+--- Bank Account Menu ---
+1. Deposit
+2. Withdraw
+3. Check balance
+4. Exit
+Enter choice: 2 5436
+Invalid choice.
+
+--- Bank Account Menu ---
+1. Deposit
+2. Withdraw
+3. Check balance
+4. Exit
+Enter choice: 3
+Account holder: ram
+Current balance: 8765.0
+
+--- Bank Account Menu ---
+1. Deposit
+2. Withdraw
+3. Check balance
+4. Exit
+Enter choice: 4
+Thank you for using the bank system.
