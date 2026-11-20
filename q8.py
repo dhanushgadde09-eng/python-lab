@@ -45,3 +45,42 @@ while True:
         break
     else:
         print("Invalid choice.")
+
+output
+--- Contact Book ---
+1. Add contact
+2. View contacts
+3. Search contact
+4. Exit
+Enter choice: 1
+Enter contact name: dhanush
+Enter phone number: 87673472784663
+Enter email address: dhanush@gmail.com
+Contact added successfully.
+
+--- Contact Book ---
+1. Add contact
+2. View contacts
+3. Search contact
+4. Exit
+Enter choice: 2
+1. dhanush | 87673472784663 | dhanush@gmail.com
+
+--- Contact Book ---
+1. Add contact
+2. View contacts
+3. Search contact
+4. Exit
+Enter choice: 3
+Enter the name to search: dhanush
+Name: dhanush
+Phone: 87673472784663
+Email: dhanush@gmail.com
+
+--- Contact Book ---
+1. Add contact
+2. View contacts
+3. Search contact
+4. Exit
+Enter choice: 4
+Exiting contact book.
