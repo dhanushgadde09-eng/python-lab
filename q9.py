@@ -26,6 +26,32 @@ for i in range(number_of_students):
     else:
         grade = "F"
 
+
+output
+ Enter number of students: 4
+
+Student 1
+Enter student name: ram
+Enter marks out of 100: 85
+
+Student 2
+Enter student name: raj
+Enter marks out of 100: 65
+
+Student 3
+Enter student name: umesh
+Enter marks out of 100: 45
+
+Student 4
+Enter student name: yash
+Enter marks out of 100: 32
+
+--- Student Results ---
+ram - Marks: 85.0 - Grade: A
+raj - Marks: 65.0 - Grade: C
+umesh - Marks: 45.0 - Grade: F
+yash - Marks: 32.0 - Grade: F
+
     students.append({"name": name, "marks": marks, "grade": grade})
 
 print("\n--- Student Results ---")
