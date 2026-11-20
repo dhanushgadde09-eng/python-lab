@@ -63,3 +63,42 @@ while True:
         break
     else:
         print("Invalid choice.")
+
+output
+--- Library Management ---
+1. Add book
+2. View books
+3. Issue book
+4. Return book
+5. Exit
+Enter choice: 2
+567 | agriculture | watson | Available
+
+--- Library Management ---
+1. Add book
+2. View books
+3. Issue book
+4. Return book
+5. Exit
+Enter choice: 3
+Enter book ID to issue: 567
+Book issued successfully.
+
+--- Library Management ---
+1. Add book
+2. View books
+3. Issue book
+4. Return book
+5. Exit
+Enter choice: 4
+Enter book ID to return: 567
+Book returned successfully.
+
+--- Library Management ---
+1. Add book
+2. View books
+3. Issue book
+4. Return book
+5. Exit
+Enter choice: 5
+Exiting library system.
