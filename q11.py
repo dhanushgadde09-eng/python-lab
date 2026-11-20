@@ -39,3 +39,10 @@ except FileNotFoundError:
     print("Error: Log file not found!")
 
 print("===================================")
+
+output
+===================================
+        LOG FILE READER
+===================================
+Error: Log file not found!
+===================================
