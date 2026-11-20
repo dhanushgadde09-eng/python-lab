@@ -46,3 +46,31 @@ while True:
         break
     else:
         print("Invalid choice.")
+
+output
+
+--- Payroll Management ---
+1. Add employee payroll
+2. View payroll
+3. Exit
+Enter choice: 1
+Enter employee ID: 12567
+Enter employee name: sai
+Enter hours worked: 67
+Enter hourly pay rate: 87
+Payroll record saved. Gross pay: 5829.0
+
+--- Payroll Management ---
+1. Add employee payroll
+2. View payroll
+3. Exit
+Enter choice: 2
+Employee ID | Name | Hours | Hourly Rate | Gross Pay
+12567 | sai | 67.0 | 87.0 | 5829.0
+
+--- Payroll Management ---
+1. Add employee payroll
+2. View payroll
+3. Exit
+Enter choice: 3
+Exiting payroll system.
