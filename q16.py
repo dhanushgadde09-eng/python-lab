@@ -16,3 +16,17 @@ while True:
     print("Dice 2:", dice2)
     print("Total:", dice1 + dice2)
     print()
+
+output
+Press Enter to roll the dice, or type q to quit: 
+Dice 1: 2
+Dice 2: 2
+Total: 4
+
+Press Enter to roll the dice, or type q to quit: 
+Dice 1: 2
+Dice 2: 4
+Total: 6
+
+Press Enter to roll the dice, or type q to quit: q
+Thanks for playing!
