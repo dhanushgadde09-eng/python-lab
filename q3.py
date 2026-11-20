@@ -29,3 +29,14 @@ elif choice == 4:
 
 else:
     print("Invalid choice!")
+
+#output
+---**AREA CALCULATOR**---
+1. Circle
+2. Rectangle
+3. Square
+4. Triangle
+Enter your choice (1, 2, 3, 4): 2
+Enter the length: 4
+Enter the width: 6
+Area of Rectangle = 24.0
