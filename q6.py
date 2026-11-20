@@ -4,3 +4,7 @@ n = int(input("Enter number of terms: "))
 
 for i in range(n):
     print(fibo(i), end=" ")
+
+output
+Enter number of terms: 7
+0 1 1 2 3 5 8 
